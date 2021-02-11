@@ -1,0 +1,25 @@
+body{
+background-image: url("../images/abstract.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+
+}
+.nlog{
+	width: 60px;
+	height: 60px;
+	border-radius: 30px;
+}
+
+.login{
+	cursor: pointer;
+}
+
+#card{
+	background-image: url("../images/abstract.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
